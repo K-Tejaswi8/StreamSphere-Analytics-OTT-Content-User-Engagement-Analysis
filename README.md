@@ -1,0 +1,2 @@
+# StreamSphere-Analytics-OTT-Content-User-Engagement-Analysis
+Developed an end-to-end OTT Analytics project using Python, MySQL, and Jupyter Notebook. Performed data cleaning, EDA, normalization, and relational database design. Executed advanced SQL queries using joins, CTEs, and window functions to generate business insights, followed by visualizations to analyze content trends and platform growth.
