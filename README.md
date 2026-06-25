@@ -163,7 +163,3 @@ OTT_Analytics/
 - Data Visualization
 - Business Insight Generation
 
----
-
-
-MBA (Finance) | Data Analytics Enthusiast
